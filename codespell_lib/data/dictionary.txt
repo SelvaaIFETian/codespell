@@ -27040,6 +27040,7 @@ hitories->histories
 hitory->history
 hitsingles->hit singles
 hiygeine->hygiene
+hlo->hello
 hmdi->hdmi
 hmtl->html
 hnalder->handler
