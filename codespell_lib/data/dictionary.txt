@@ -5,6 +5,7 @@
 3rt->3rd
 3st->3rd
 4rd->4th
+5st->5th
 __attribyte__->__attribute__
 __cpluspus->__cplusplus
 __cpusplus->__cplusplus
