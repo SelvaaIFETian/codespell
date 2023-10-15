@@ -200,6 +200,7 @@ aboutit->about it
 aboutthe->about the
 abouve->above
 abov->above
+abave->above
 aboved->above
 abovemtioned->abovementioned
 aboves->above
